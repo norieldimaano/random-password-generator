@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: #002339;
+    background-color: #0B132B;
     color: #fff;
 }
 
@@ -31,6 +31,7 @@ body{
 .display img{
     width: 30px;
     cursor: pointer;
+    filter: invert(0%) sepia(9%) saturate(7500%) hue-rotate(137deg) brightness(95%) contrast(107%)
 }
 
 .display input{
@@ -45,8 +46,8 @@ body{
 }
 
 .container h1 span{
-    color: #019f55;
-    border-bottom: 4px solid #019f55;
+    color: #00A5E0;
+    border-bottom: 4px solid #00A5E0;
     padding-bottom: 7px;
 }
 
@@ -58,7 +59,7 @@ body{
 .container button{
     border: 0;
     outline: 0;
-    background: #019f55;
+    background: #00A5E0;
     color: #fff;
     font-size: 22px;
     font-weight: 300;
