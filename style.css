@@ -31,7 +31,7 @@ body{
 .display img{
     width: 30px;
     cursor: pointer;
-    filter: invert(0%) sepia(9%) saturate(7500%) hue-rotate(137deg) brightness(95%) contrast(107%)
+    filter: invert(50%) sepia(0%) saturate(3500%) hue-rotate(137deg) brightness(85%) contrast(107%)
 }
 
 .display input{
